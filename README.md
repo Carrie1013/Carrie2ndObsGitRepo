@@ -1,1 +1,1 @@
-# Obsidian-Notes
+## Obsidian Notes Repository
