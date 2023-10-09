@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship/DailyReport/2023-10-08.md",
+                "file": "Internship/PaperSurvey/DORL - Experiment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a1a913292f6950f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAT3010.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1db3c785a2eac678",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship/DailyReport/2023-10-08.md",
+                "file": "MAT3010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internship/DailyReport/2023-10-08.md",
+                "file": "MAT3010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +139,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internship/DailyReport/2023-10-08.md"
+                "file": "MAT3010.md"
               }
-            }
-          },
-          {
-            "id": "665d66dedb0fa4e4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -170,10 +176,22 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "61b7dcacbee2f39f",
+  "active": "7a1a913292f6950f",
   "lastOpenFiles": [
+    "Pasted image 20231009123840.png",
+    "Internship/PaperSurvey/DORL - Experiment.md",
+    "Internship/DailyReport/2023-10-08/2023-10-08.md",
+    "Internship/DailyReport/2023-10-08/Pasted image 20231009111218.png",
+    "Internship/DailyReport/2023-10-08",
+    "Internship/DailyReport/2023-10-08/Pasted image 20231009111129.png",
+    "Internship/DailyReport/2023-10-08/Pasted image 20231009110914.png",
+    "Internship/DailyReport/2023-10-08/Pasted image 20231009105638.png",
+    "Internship/DailyReport/2023-10-08/Pasted image 20231009105613.png",
+    "Internship/DailyReport/2023-10-08/Pasted image 20231009105417.png",
+    "Internship/DailyReport/2023-10-08/Pasted image 20231009105343.png",
+    "MAT3010.md",
+    "Internship/DailyReport/2023-10-08/Pasted image 20231009104512.png",
     "README.md",
-    "Internship/DailyReport/2023-10-08.md",
     "Internship/Tools",
     "Internship/PaperSurvey",
     "Internship/DailyReport",
