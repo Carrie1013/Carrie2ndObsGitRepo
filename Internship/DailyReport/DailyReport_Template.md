@@ -1,0 +1,20 @@
+- LDD当日ecpm是否异常
+	- （ecpm数据情况表分析）
+	- 当日sd_income/ show_pv/ show_uv表格： 
+	  http://116.62.157.223:8888/tree/carr1/LDD_DailyIncomePV
+- 7天算法收入比例
+	- Replace收入类型数量比例
+	- Trex收入类型数量比例
+	- Replace收入类型金额比例
+	- Trex收入类型金额比例
+	- 7天Replace算法付费人数变化
+	- 7天总人数变化
+- 当日主要收入来源
+	- Replace收入媒资：
+	- Trex收入媒资：
+- 异常cid媒资被推荐及异常baseCid媒资推荐情况
+	- 
+- 最近7天trex/replace桶下新增用户
+	- 7天trex/replace桶下新增用户数
+	- 7天内付费用户付费媒资和注册类型
+	- 当天replace/trex下付费用户及付费内容
