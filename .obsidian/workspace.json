@@ -4,23 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "a13663db08fd9bba",
-        "type": "tabs",
+        "id": "70417ceab3827095",
+        "type": "split",
         "children": [
           {
-            "id": "1a77bdba6ec36af3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/DailyReport/2023-10-20/LLM.md",
-                "mode": "source",
-                "source": false
+            "id": "a13663db08fd9bba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a77bdba6ec36af3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DataScience/Map.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "3c545d62acc45c21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "73615d3ceb640bc5",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -82,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1db3c785a2eac678",
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship/DailyReport/2023-10-20/LLM.md",
+                "file": "DataScience/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internship/DailyReport/2023-10-20/LLM.md",
+                "file": "DataScience/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internship/DailyReport/2023-10-20/LLM.md"
+                "file": "DataScience/Map.md"
               }
             }
           },
@@ -183,8 +205,20 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "63993b6602e7cf20",
+  "active": "1a77bdba6ec36af3",
   "lastOpenFiles": [
+    "DataScience/Map.md",
+    "Internship/DailyReport/2023-10-20/LLM.md",
+    "DataScience/ArtificialIntelligence/TrustworthyAI",
+    "DataScience/MachineLearning/未命名",
+    "DataScience/ArtificialIntelligence/LLM",
+    "DataScience/ArtificialIntelligence/NLP",
+    "DataScience/ArtificialIntelligence/CV",
+    "DataScience/ArtificialIntelligence",
+    "DataScience/MachineLearning/AI",
+    "DataScience/MachineLearning/Programming",
+    "DataScience/DeepLearning",
+    "DataScience/MachineLearning/Reinforcement",
     "Internship/DailyReport/2023-10-20/2023-10-19.md",
     "Internship/DailyReport/2023-10-20/Pasted image 20231020093156.png",
     "Internship/DailyReport/2023-10-20/Pasted image 20231020093027.png",
@@ -197,37 +231,26 @@
     "Internship/DailyReport/2023-10-20/Pasted image 20231020092305.png",
     "Internship/DailyReport/2023-10-20/Pasted image 20231020092050.png",
     "Internship/DailyReport/DailyReport_Template.md",
-    "Internship/DailyReport/2023-10-20/LLM.md",
-    "Internship/DailyReport/2023-10-20",
-    "Internship/DailyReport/2023-10-19/未命名",
     "Internship/DailyReport/2023-10-19/2023-10-18.md",
     "Internship/DailyReport/2023-10-17/LLM Ideas.md",
     "HW2_CSC4130.md",
-    "Internship/DailyReport/2023-10-19",
     "PJ1_FIN3080.md",
     "HW2_DDA3005.md",
     "Internship/DailyReport/2023-10-18/2023-10-17.md",
     "Internship/DailyReport/2023-10-17/2023-10-16.md",
-    "Internship/DailyReport/2023-10-18",
-    "Internship/DailyReport/2023-10-17",
     "Excalidraw/Drawing 2023-10-16 16.42.20.excalidraw.md",
-    "Excalidraw",
     "Internship/DailyReport/2023-10-16/LLM Experiment.md",
     "Internship/DailyReport/2023-10-16/2023-10-13to15.md",
     "HW1_FIN3080.md",
     "Internship/DailyReport/2023-10-13/2023-10-12.md",
     "Internship/DailyReport/2023-10-12/2023-10-11.md",
-    "Internship/DailyReport/2023-10-16",
     "FIN3080的副本.md",
     "Internship/DailyReport/2023-10-12/2023-10-12-LLM-微调Notes.md",
-    "Internship/DailyReport/2023-10-13",
     "Internship/DailyReport/2023-10-11/2023-10-10.md",
     "Internship/DailyReport/2023-10-10/2023-10-09.md",
     "Internship/DailyReport/2023-10-11/2023-10-11-LLM-Review.md",
-    "Internship/DailyReport/2023-10-12",
     "Internship/DailyReport/2023-10-10/2023-10-10-LLM label check.md",
     "MAT3010.md",
-    "Internship/DailyReport/2023-10-11",
     "Internship/DailyReport/2023-10-09/LLM label check.md",
     "Internship/DailyReport/2023-10-09/2023-10-08.md"
   ]

@@ -1,0 +1,58 @@
+- Machine Leaning
+	- Supervised Learning 监督学习
+		- Linear Models 线性模型
+			- Regression 回归
+				- Linear Regression 线性回归
+					- Lasso Regression
+					- Ridge Regression
+			- Classification 分类
+				- Perceptron 感知器
+					- SVM 支持向量机
+					- Logistic Regression
+						- Softmax Regression
+					- ANN 人工神经网络/ MIP 人工输入处理
+						- CNN/ FCN
+						- AE/ RBM/ DBM/ DBN
+						- RNN/ LSTM
+						- GAN/ VAE
+		- Ensemble Learning 集成学习
+			- Decision Tree 决策树
+			- Random Forest 随机森林
+			- Bagging
+			- Boosting
+				- AdaBoost
+				- XGBoost
+				- GBDT
+		- KNN 距离度量学习
+		- Bayes 贝叶斯
+			- Naive Bayes 朴素贝叶斯
+			- Normal Bayes 正态贝叶斯
+			- Bayes Network 贝叶斯网络
+		- Discriminate Analysis 判别分析
+			- LDA
+			- KLDA
+	- Unsupervised Learning 无监督学习
+		- Dimension Reduction 降维
+			- PCA/ KPCA
+			- Manifold Learning 流形学习
+				- LLE
+				- SNE
+				- t-SNE
+				- Laplacian Eigenmaps
+				- locality preserving projections
+				- Isometric mapping
+		- Classification 分类
+			- K-Means
+			- EM Algorithm
+			- Hierarchy Clustering
+			- Spectral Clustering
+			- DBSCAN
+			- OPTICS
+			- Mean Shift
+	- Semi-supervised Learning 半监督学习
+		- Self-training
+		- Co-training
+		- Label Propagation
+		- Graph based SSL methods
+	- Reinforcement Learning 强化学习
+		- 不用管
