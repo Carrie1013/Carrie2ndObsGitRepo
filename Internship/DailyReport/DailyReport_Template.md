@@ -2,6 +2,8 @@
 	- （ecpm数据情况表分析）
 	- 当日sd_income/ show_pv/ show_uv表格： 
 	  http://116.62.157.223:8888/tree/carr1/LDD_DailyIncomePV
+	- 异常收录表： 
+	  https://docs.qq.com/sheet/DVUFmS2ZPYnR2c2pa?tab=BB08J2
 - 7天算法收入比例
 	- Replace收入类型数量比例
 	- Trex收入类型数量比例

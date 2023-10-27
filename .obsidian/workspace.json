@@ -4,44 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "70417ceab3827095",
-        "type": "split",
+        "id": "8d683d73c2f06e98",
+        "type": "tabs",
         "children": [
           {
-            "id": "a13663db08fd9bba",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1a77bdba6ec36af3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DataScience/Map.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "3602764c6cd277bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internship/DailyReport/2023-10-27/2023-10-26.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "stacked": true
-          },
-          {
-            "id": "3c545d62acc45c21",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "73615d3ceb640bc5",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -103,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1db3c785a2eac678",
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataScience/Map.md",
+                "file": "Internship/DailyReport/2023-10-27/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataScience/Map.md",
+                "file": "Internship/DailyReport/2023-10-27/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Map.md"
+                "file": "Internship/DailyReport/2023-10-27/2023-10-26.md"
               }
             }
           },
@@ -205,8 +183,31 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "1a77bdba6ec36af3",
+  "active": "63993b6602e7cf20",
   "lastOpenFiles": [
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027152039.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027151940.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027151913.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027151729.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027151655.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027145806.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027145719.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027145638.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027145625.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027145623.png",
+    "Internship/DailyReport/2023-10-27/Pasted image 20231027145622.png",
+    "Internship/DailyReport/2023-10-27/2023-10-26.md",
+    "Internship/DailyReport/2023-10-26/2023-10-26 Learn.md",
+    "Internship/DailyReport/2023-10-27",
+    "Internship/DailyReport/2023-10-09/2023-10-08.md",
+    "Internship/DailyReport/2023-10-12/2023-10-11.md",
+    "Internship/DailyReport/2023-10-16/2023-10-13to15.md",
+    "Internship/DailyReport/2023-10-19/2023-10-18.md",
+    "Internship/DailyReport/2023-10-20/2023-10-19.md",
+    "Internship/DailyReport/2023-10-26/2023-10-20to25.md",
+    "Internship/DailyReport/2023-10-18/2023-10-17.md",
+    "Internship/DailyReport/DailyReport_Template.md",
+    "Internship/DailyReport/2023-10-26",
     "DataScience/Map.md",
     "Internship/DailyReport/2023-10-20/LLM.md",
     "DataScience/ArtificialIntelligence/TrustworthyAI",
@@ -217,41 +218,18 @@
     "DataScience/ArtificialIntelligence",
     "DataScience/MachineLearning/AI",
     "DataScience/MachineLearning/Programming",
-    "DataScience/DeepLearning",
-    "DataScience/MachineLearning/Reinforcement",
-    "Internship/DailyReport/2023-10-20/2023-10-19.md",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020093156.png",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020093027.png",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020092925.png",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020092601.png",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020092541.png",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020092407.png",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020092341.png",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020092319.png",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020092305.png",
-    "Internship/DailyReport/2023-10-20/Pasted image 20231020092050.png",
-    "Internship/DailyReport/DailyReport_Template.md",
-    "Internship/DailyReport/2023-10-19/2023-10-18.md",
     "Internship/DailyReport/2023-10-17/LLM Ideas.md",
     "HW2_CSC4130.md",
     "PJ1_FIN3080.md",
     "HW2_DDA3005.md",
-    "Internship/DailyReport/2023-10-18/2023-10-17.md",
     "Internship/DailyReport/2023-10-17/2023-10-16.md",
     "Excalidraw/Drawing 2023-10-16 16.42.20.excalidraw.md",
     "Internship/DailyReport/2023-10-16/LLM Experiment.md",
-    "Internship/DailyReport/2023-10-16/2023-10-13to15.md",
     "HW1_FIN3080.md",
     "Internship/DailyReport/2023-10-13/2023-10-12.md",
-    "Internship/DailyReport/2023-10-12/2023-10-11.md",
     "FIN3080的副本.md",
     "Internship/DailyReport/2023-10-12/2023-10-12-LLM-微调Notes.md",
     "Internship/DailyReport/2023-10-11/2023-10-10.md",
-    "Internship/DailyReport/2023-10-10/2023-10-09.md",
-    "Internship/DailyReport/2023-10-11/2023-10-11-LLM-Review.md",
-    "Internship/DailyReport/2023-10-10/2023-10-10-LLM label check.md",
-    "MAT3010.md",
-    "Internship/DailyReport/2023-10-09/LLM label check.md",
-    "Internship/DailyReport/2023-10-09/2023-10-08.md"
+    "Internship/DailyReport/2023-10-10/2023-10-09.md"
   ]
 }
